@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "390063182390",
+    "firebase_url": "https://mpi-ii.firebaseio.com",
+    "project_id": "mpi-ii",
+    "storage_bucket": "mpi-ii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390063182390:android:48321d4cf0a9b44d43be97",
+        "android_client_info": {
+          "package_name": "com.example.mpi2_pd2_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390063182390-i84rsvmd1gk8d7cr67gs6ah0dnkv2nv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk5mDbFZ3pWAXSU2b70SjRy__Go1J1Hdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390063182390-i84rsvmd1gk8d7cr67gs6ah0dnkv2nv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

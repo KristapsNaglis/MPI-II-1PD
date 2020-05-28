@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/mainAudioLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".audioTab"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/audioRecordButton"
+        android:layout_width="200dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="25dp"
+        android:text="@string/recordAudioInactive"
+        android:textSize="14sp"/>
+
+    <EditText
+        android:id="@+id/audioFileNameTextField"
+        android:layout_width="300dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="25dp"
+        android:text="@string/audioFailaNosaukumsMain"
+        android:editable="false"
+        android:textAlignment="center"
+        android:textSize="17sp"/>
+
+    <ListView
+        android:id="@+id/audioFileList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"/>
+
+</LinearLayout>

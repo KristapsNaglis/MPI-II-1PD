@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mpi2-pd2_1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="audioFailaNosaukumsMain">Faila Nosaukums</string>
+    <string name="recordAudioInactive">Press To Record Audio</string>
+    <string name="recordAudioActive">Audio is recording …</string>
+
+</resources>
